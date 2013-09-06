@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.name        = 'subscribem'
   s.version     = Subscribem::VERSION
   s.authors     = ['Eugene Batogov']
-  s.email       = ["johnbat26@gmail.com"]
+  s.email       = %w(johnbat26@gmail.com)
   s.homepage    = 'https://github.com/JohnBat26/subscribem'
   s.summary     = 'Summary of Subscribem.'
   s.description = 'Description of Subscribem.'
