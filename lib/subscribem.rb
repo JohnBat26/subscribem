@@ -1,4 +1,4 @@
-require "subscribem/engine"
+require 'subscribem/engine'
 
 module Subscribem
 end
